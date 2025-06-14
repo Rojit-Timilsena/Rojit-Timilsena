@@ -1,62 +1,59 @@
-<!--
-  Minimal • Dark • Futuristic
-  Inspired by Rojit Timilsena's solo journey in AI, automation, and mental health tech.
--->
+<p align="center">
+  <img src="./assets/banner.png" alt="Welcome Banner" width="100%" />
+</p>
 
-<h1 align="center">👋 Hi there, I'm Rojit Timilsena</h1>
-<p align="center"><em>Aspiring AI Developer & SEO Specialist | Solo Indie Dev</em></p>
-
----
+<h1 align="center">Hi there, I'm Rojit 👋</h1>
 
 <p align="center">
-  <b>Turning self-improvement into software.<br>
-  Building cool things solo with code and caffeine.</b>
+  Self-Taught Developer · SEO Specialist · Indie Builder  
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 💡 About Me
 
-- 🧠 **AI & Automation:** Python, Django, REST APIs, LLM integration (Gemini, GPT, etc.)
-- 📱 **Mobile:** Flutter & Firebase
-- 🌐 **Web:** HTML, CSS, JS, React
-- 🛠️ **Bots & Scripts:** Automation, productivity, and more
-- 🔍 **SEO:** Merging tech and discoverability
+- 🛠 Currently working on [NeuroVault](https://github.com/rojittimilsena/neurovault) — a mood journal and mental health tracker.
+- 🌱 Learning by building — from bots to full-stack apps.
+- 🔍 I love solving real-world problems with simple tools and automation.
+- ✍️ Sharing thoughts on self-growth & systems via [NeuroEdge](https://neuroedge.beehiiv.com/).
 
 ---
 
-### 🚀 Featured Projects
+### 🧰 Tech Stack
 
-- **🧠 NeuroVault**  
-  <em>Mental health journaling app with AI insights</em>
+![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-- **🤖 Auto-Reply Chatbot**  
-  <em>Gemini-powered reply system for messaging</em>
+---
 
-- **🎙️ Voice Assistant**  
-  <em>Personal assistant using speech recognition and Gemini</em>
+### 📦 Featured Projects
+
+#### 🧠 [NeuroVault](https://github.com/rojittimilsena/neurovault)
+> A futuristic journaling + mood tracking app powered by AI summaries.
+
+#### 🤖 Auto-Reply Chatbot
+> Python-based message detector with Gemini smart reply system.
+
+#### 🎙️ Voice Assistant
+> Lightweight voice-controlled assistant with command support and news reading.
 
 ---
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=flat&logo=github&logoColor=white)](https://your-portfolio-link.com)
-[![Newsletter](https://img.shields.io/badge/Newsletter-NeuroEdge-5f19e3?style=flat&logo=maildotru&logoColor=white)](https://your-newsletter-link.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rojittimilsena)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rojittimilsena)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=github&logoColor=white)](https://rojittimilsena.github.io/)
+[![Newsletter](https://img.shields.io/badge/-NeuroEdge-orange?style=flat)](https://neuroedge.beehiiv.com/)
 
 ---
 
-### 🎯 Fun Facts
+### ⚡ Fun Fact
 
-- I build mental health tools because I believe software can heal minds.
-- Currently exploring how to blend productivity, AI, and habit-building into useful tools.
-- Self-taught, self-driven, solo creator.
+I build apps not just to work — but to make people feel better using them.
 
 ---
-
-<details>
-  <summary>🖤 <b>Minimal, dark & futuristic—just like my apps.</b></summary>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=5f19e3&height=120&section=footer"/>
-</details>
