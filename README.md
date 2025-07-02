@@ -1,4 +1,4 @@
-<h1> align="center">Hi there, I'm Rojit 👋</h1>
+<h1 align="center">Hi there, I'm Rojit 👋</h1>
 
 <p align="center">
   Self-Taught Developer · SEO Specialist · Indie Builder  
