@@ -38,8 +38,6 @@ Self-taught developer building practical applications with a focus on automation
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rojittimilsena&theme=default&hide_border=true)
-
 **Open to collaboration on impactful projects**
 
 <img src="https://komarev.com/ghpvc/?username=rojittimilsena&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
