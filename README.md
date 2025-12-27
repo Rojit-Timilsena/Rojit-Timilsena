@@ -38,7 +38,7 @@ Self-taught developer building practical applications with a focus on automation
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rojittimilsena&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rojittimilsena&theme=default&hide_border=true)
 
 **Open to collaboration on impactful projects**
 
